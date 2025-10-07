@@ -1,1 +1,1 @@
-# Kaziyev-Nurtay
+# DDSM115 implementation
